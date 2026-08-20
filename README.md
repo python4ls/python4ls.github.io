@@ -1,1 +1,1 @@
-# python4ls.github.io
+Python for Life Scientists landing page
