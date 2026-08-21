@@ -1,1 +1,1 @@
-Python for Life Scientists landing page
+*Python for Life Scientists* landing page
